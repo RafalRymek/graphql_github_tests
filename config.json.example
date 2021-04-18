@@ -1,0 +1,6 @@
+{
+  "access_token": "user_github_token",
+  "username": "user_github_login",
+  "api_url": "https://api.github.com/graphql"
+}
+}
