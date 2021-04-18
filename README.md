@@ -1,5 +1,5 @@
-# Bootcamp GrpaahQL automated tests
-Automated API tests to cover endpoints from GitHUb using GraphQL
+# Bootcamp GraphQL automated tests
+Automated API tests to cover endpoints from GitHub using GraphQL
 
 Following tech stack is using:
 python   
